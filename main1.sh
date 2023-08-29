@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 # Variable:
 path=./hdfs/data/data1
 name_of_directory=data1
